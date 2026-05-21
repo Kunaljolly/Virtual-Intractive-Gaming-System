@@ -121,6 +121,7 @@ python3 game_plugin/game_interface.py
       │
 [Character Action on Screen]
 ```
+<img width="916" height="1454" alt="image" src="https://github.com/user-attachments/assets/ca4ac24b-182e-45d6-888e-0f65905daf74" />
 
 ---
 
